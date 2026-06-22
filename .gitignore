@@ -1,0 +1,6 @@
+ridego/node_modules/
+ridego/.next/
+ridego/.env
+
+socketServer/node_modules/
+socketServer/.env
