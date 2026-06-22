@@ -120,6 +120,7 @@ const userSchema = new mongoose.Schema<IUser>(
 
       coordinates: {
         type: [Number],
+        default: [0, 0],
       },
     },
 
